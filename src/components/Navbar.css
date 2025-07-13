@@ -1,11 +1,15 @@
 .navbar {
   width: 200px;
   height: 100vh;
-  background-color: #16498a;
+  background-color: #173c5e;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 1rem 0;
+}
+
+.navbar_logo {
+  margin-bottom: 2rem;
 }
 
 .navbar_nav ul {
