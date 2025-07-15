@@ -5,11 +5,13 @@ import { Buscar } from "../Pages/Buscar";
 import { Configurar } from "../pages/Configurar";
 import { Proximos } from "../pages/Proximos";
 import { Reportes } from "../pages/Reportes";
+import { Login } from "../Pages/Login";
 
 export const AppRoutes = () => {
   return (
     <Routes>
       <Route index element={<Home />} />
+      <Route path="/Login" element={<Login />}></Route>
       <Route path="/Registro" element={<Registro />} />
       <Route path="/Buscar" element={<Buscar />}></Route>
       <Route path="/Configurar" element={<Configurar />}></Route>
