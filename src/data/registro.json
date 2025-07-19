@@ -1,0 +1,83 @@
+[
+  {
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "fechaNacimiento": "1985-06-15",
+    "sexo": "Masculino",
+    "cedula": "12345678",
+    "direccion": "Calle 123, Ciudad A",
+    "telefono": "0414-1234567"
+  },
+  {
+    "nombre": "María",
+    "apellido": "González",
+    "fechaNacimiento": "1992-03-22",
+    "sexo": "Femenino",
+    "cedula": "87654321",
+    "direccion": "Avenida Central, Ciudad B",
+    "telefono": "0412-7654321"
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Rodríguez",
+    "fechaNacimiento": "1978-11-05",
+    "sexo": "Masculino",
+    "cedula": "23456789",
+    "direccion": "Carrera 45, Ciudad C",
+    "telefono": "0424-1122334"
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "Martínez",
+    "fechaNacimiento": "2000-01-01",
+    "sexo": "Femenino",
+    "cedula": "34567890",
+    "direccion": "Sector Norte, Ciudad D",
+    "telefono": "0416-9988776"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "López",
+    "fechaNacimiento": "1995-08-10",
+    "sexo": "Masculino",
+    "cedula": "45678901",
+    "direccion": "Urbanización Las Flores",
+    "telefono": "0426-3344556"
+  },
+  {
+    "nombre": "Sofía",
+    "apellido": "Ramírez",
+    "fechaNacimiento": "1988-12-30",
+    "sexo": "Femenino",
+    "cedula": "56789012",
+    "direccion": "Calle Los Pinos, Ciudad E",
+    "telefono": "0412-5566778"
+  },
+  {
+    "nombre": "Pedro",
+    "apellido": "Fernández",
+    "fechaNacimiento": "1975-04-18",
+    "sexo": "Masculino",
+    "cedula": "67890123",
+    "direccion": "Avenida Bolívar, Ciudad F",
+    "telefono": "0414-3344556"
+  },
+  {
+    "nombre": "Lucía",
+    "apellido": "Torres",
+    "fechaNacimiento": "1999-09-09",
+    "sexo": "Femenino",
+    "cedula": "78901234",
+    "direccion": "Sector Sur, Ciudad G",
+    "telefono": "0424-2233445"
+  },
+  {
+    "nombre": "Miguel",
+    "apellido": "Castillo",
+    "fechaNacimiento": "1982-07-21",
+    "sexo": "Masculino",
+    "cedula": "89012345",
+    "direccion": "Urbanización El Lago, Ciudad H",
+    "telefono": "0416-7788990"
+  }
+]

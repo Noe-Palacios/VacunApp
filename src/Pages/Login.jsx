@@ -7,6 +7,7 @@ export const Login = () => {
           style={{ width: "100%", maxWidth: "330px", padding: "15px" }}
         >
           {/* Icono tipo Bootstrap */}
+
           {
             <div className="mb-4">
               <div
@@ -43,6 +44,7 @@ export const Login = () => {
               />
               <label htmlFor="floatingPassword">Contraseña</label>
             </div>
+            {/* bug de ojo desaparece si das click afuera */}
 
             <div className="checkbox mb-3 text-start">
               <label>

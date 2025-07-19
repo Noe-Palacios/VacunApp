@@ -6,6 +6,7 @@ import { Configurar } from "../pages/Configurar";
 import { Proximos } from "../pages/Proximos";
 import { Reportes } from "../pages/Reportes";
 import { Login } from "../Pages/Login";
+import { TestBackend } from "../components/TestBackend";
 
 export const AppRoutes = () => {
   return (
@@ -17,6 +18,7 @@ export const AppRoutes = () => {
       <Route path="/Configurar" element={<Configurar />}></Route>
       <Route path="/Proximos" element={<Proximos />}></Route>
       <Route path="/Reportes" element={<Reportes />}></Route>
+      <Route path="/TestBackend" element={<TestBackend />} />
       <Route path="*" element={<Navigate to="/" />}></Route>
     </Routes>
   );
